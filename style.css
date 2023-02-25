@@ -9,13 +9,18 @@ html,body{
     width: 100%;
     height: 100%;
     font-size: 62.5%;
+    background-color: #202020;
+    display: grid;
+    place-items: center;
 }
 
 
 #main{
+    position: relative;
     width: 100%;
     height: 100%;
     background-color: #202020;
+  
 }
 
 #panel{
